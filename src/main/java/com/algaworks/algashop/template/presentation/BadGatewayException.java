@@ -1,6 +1,6 @@
 package com.algaworks.algashop.template.presentation;
 
-public class BadGatewayException extends RuntimeException{
+public class BadGatewayException extends RuntimeException {
     public BadGatewayException() {
     }
 

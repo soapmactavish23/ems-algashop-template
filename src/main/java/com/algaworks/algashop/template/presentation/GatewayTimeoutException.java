@@ -1,6 +1,6 @@
 package com.algaworks.algashop.template.presentation;
 
-public class GatewayTimeoutException extends RuntimeException{
+public class GatewayTimeoutException extends RuntimeException {
     public GatewayTimeoutException() {
     }
 
